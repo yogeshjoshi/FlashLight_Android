@@ -8,5 +8,9 @@ import android.support.v7.app.AppCompatActivity;
  */
 
 public class Flash_spalsh extends AppCompatActivity {
-    protected void onCreate(Bundle savedInstanceState){}
+    protected void onCreate(Bundle savedInstanceState){
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.flash_spalsh);
+
+    }
 }
