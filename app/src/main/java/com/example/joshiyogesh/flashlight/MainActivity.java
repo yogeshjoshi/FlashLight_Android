@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
                      camera.setParameters(parameters);
                      camera.stopPreview();
                      isOn = false;
+
                  }
              }
 
